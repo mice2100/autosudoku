@@ -10,7 +10,7 @@
 * sudoku.py ---- Codes from http://norvig.com/sudoku.html
 * digitals/ ---- all train datas, output of genFonts.py
 * minst.h6 ---- Trained model, output of train.py
-* button.png ---- Part of sudoku game, autosudoku use it to determine if the game is activated. You NEED replace it with your own screen shot.
+* button.png ---- Part of sudoku game, autosudoku use it to determine if the game is activated. **You NEED replace it with your own screen shot**.
     
 ## This is tested on ubuntu 18.04.
 
