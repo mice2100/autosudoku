@@ -1,6 +1,6 @@
 # auto sudoku resolver
 
-[screen cast](screencast.webm)
+[screen cast](screencast.gif)
 
 *I created this project to learn OCR(with CNN). This includes everying:*
 * genFonts.py---- To create data for training
